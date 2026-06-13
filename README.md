@@ -1,4 +1,4 @@
-## phyloop
+## Phyloop
  
 Independent qualification for physics-AI surrogates in engineering simulation.
  
