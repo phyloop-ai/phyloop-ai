@@ -1,4 +1,5 @@
-## Phyloop
+![Phyloop physics-AI Logo](assets/phyloop-logo-blue.png)
+
  
 Independent qualification for physics-AI surrogates in engineering simulation.
  
